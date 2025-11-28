@@ -3,6 +3,7 @@
 
 ## Integrantes del Grupo
 - Juan Manuel Gonzalez Kapnik
+- Santino Fassanella
 
 ## Descripción del Proyecto
 Configuración completa de un servidor Debian con los siguientes servicios:
